@@ -11,6 +11,3 @@ class Shoe
   end 
  
 end 
-
-class New 
-end 
